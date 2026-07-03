@@ -6,7 +6,7 @@ stats, a language breakdown styled as a diff bar, and repos sorted by stars.
 Built with React, TypeScript, and Vite. No backend, no auth — talks directly
 to the public GitHub REST API from the browser.
 
-![GitHub Profile Analyzer screenshot](src/screenshots/Screenshot%202026-07-03%20at%2012.30.53%20PM.png)
+![GitHub Profile Analyzer screenshot](screenshots/main-screenshot.png)
 
 ## Stack
 
